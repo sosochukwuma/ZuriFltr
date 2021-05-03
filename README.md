@@ -1,5 +1,3 @@
-# Steps
-
-1. Fork and clone the forked repository - Guide ==> https://docs.github.com/en/github/getting-started-with-github/fork-a-repo
-2. Make changes and push to your forked repository.
-3. Copy the link of your forked repository and submit.
+This is a Zuri 2021 task.
+Task Title: Flutter 1.1: Portfolio app
+I'll try to replicate a portfolio I've got
